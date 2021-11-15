@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991552221723",
+    "firebase_url": "https://prueba-6e1d9-default-rtdb.firebaseio.com",
+    "project_id": "prueba-6e1d9",
+    "storage_bucket": "prueba-6e1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991552221723:android:1f49c8254e913780363ebe",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appfirebasegds0342"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991552221723-ib15bamtldirq1sbhm1b0vf61514g8jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WwgGsaSbUQLpO690fWYd8Hj6pddV7uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991552221723-ib15bamtldirq1sbhm1b0vf61514g8jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
